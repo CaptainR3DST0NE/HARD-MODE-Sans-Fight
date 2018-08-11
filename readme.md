@@ -1,4 +1,4 @@
-This is a modified version of Jcw87's c2-sans-fight, except with harder attacks.
+This is a modified version of gotoAndDie's c2-sans-fight, which is a modified version of Jcw87's c2-sans-fight, except with harder attacks.
 If you want to see any changes, please go to the gh-pages branch. I don't have Construct 2, so I'm not updating this branch. All I did was change the attacks, change some text... and clobber the "Infinite Loop Detected" function. So that's that.
 
 
